@@ -3,11 +3,7 @@ java Swing을 이용, eclipse를 사용,  java 공부
 
 
 <h1 align="center"> 문화센터 프로그램</h1>
-
-<p align="center"><img src="" width="600" height="700"></p>
-
-> <div align="center">JAVA SWING을 활용한 문화센터 프로그램</h4></div>
-
+<div align="center">JAVA SWING을 활용한 문화센터 프로그램</h4></div>
 
 * 개발 환경
   * O/S - Windows 10 64bit
@@ -59,16 +55,19 @@ java Swing을 이용, eclipse를 사용,  java 공부
 
 ## 사용 화면
  > 전체 화면 / 아이디 찾기 / 비밀번호 찾기 / 회원 가입 / 내 정보 수정
-<img src="https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png" width="450" height="200"> 
-<img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="450" height="200"> 
-<img src="https://user-images.githubusercontent.com/74230238/166141858-064ebcd6-4171-4716-9028-67fcb6b04080.png" width="200" height="200"> 
+ > 
+<img src="https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png" width="450" height="200"> <img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="450" height="200"> <img src="https://user-images.githubusercontent.com/74230238/166141858-064ebcd6-4171-4716-9028-67fcb6b04080.png" width="200" height="200"> 
+
 
 
  > 사용자 강의 목록 / 사용자 수강 신청
-<img src="https://user-images.githubusercontent.com/74230238/166142014-6fa65578-52b9-4442-8f83-7425c481c1dc.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/74230238/166142032-a4efeecb-ba04-4a07-b4cd-15493f6643e9.png" width="300" height="300">  
+ > 
+<img src="https://user-images.githubusercontent.com/74230238/166142014-6fa65578-52b9-4442-8f83-7425c481c1dc.png" width="300" height="300"> <img src="https://user-images.githubusercontent.com/74230238/166142032-a4efeecb-ba04-4a07-b4cd-15493f6643e9.png" width="300" height="300">  
+
 
 
  > 사용자 실시간 상담 / 문의사항 보내기
+ > 
 <img src="https://user-images.githubusercontent.com/74230238/166142073-5ef317ba-04c8-4dd7-9c26-828f5db9bf53.png" width="300" height="300">  
 
 
