@@ -66,11 +66,11 @@ java Swing을 이용, eclipse를 사용,  java 공부
 
  > 사용자 : 실시간 상담 / 문의사항 보내기
  > 
-<img src="https://user-images.githubusercontent.com/74230238/166142073-5ef317ba-04c8-4dd7-9c26-828f5db9bf53.png" width="200" height="250">  
+<img src="https://user-images.githubusercontent.com/74230238/166142073-5ef317ba-04c8-4dd7-9c26-828f5db9bf53.png" width="250" height="250">  
 
 
  > 관리자 : 강의 관리 / 강사 관리
 
-<img src="https://user-images.githubusercontent.com/74230238/166142188-a8469811-0a59-4053-b0ab-3ef6368e2b6c.png" width="200" height="250"> <img src="https://user-images.githubusercontent.com/74230238/166142207-32d1d4ee-58bc-4229-a5ea-f74a0f22eec6.png" width="200" height="250"><img src="https://user-images.githubusercontent.com/74230238/166142238-8eb1e7a6-7350-4ca6-b6d9-d61f3b5627cf.png" width="200" height="250"> 
+<img src="https://user-images.githubusercontent.com/74230238/166142188-a8469811-0a59-4053-b0ab-3ef6368e2b6c.png" width="250" height="250"> <img src="https://user-images.githubusercontent.com/74230238/166142207-32d1d4ee-58bc-4229-a5ea-f74a0f22eec6.png" width="250" height="250"><img src="https://user-images.githubusercontent.com/74230238/166142238-8eb1e7a6-7350-4ca6-b6d9-d61f3b5627cf.png" width="250" height="250"> 
 
 <br/>
