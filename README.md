@@ -27,9 +27,7 @@ java Swing을 이용, eclipse를 사용,  java 공부
   * N:N Mapping 테이블 경험을 통한 Oracle 기본 사용법 숙달
   * JAVA 사용법에 대한 완벽한 이해
 
-
 <br/><br/>
-
 
 ## 기능
 
@@ -60,26 +58,19 @@ java Swing을 이용, eclipse를 사용,  java 공부
 <img src="" width="200" height="250"> 
 
 ## 사용 화면
- > 전체 화면 / 아이디 찾기 / 비밀번호 찾기
-<img src="https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png" width="550" height="250"> 
+ > 전체 화면 / 아이디 찾기 / 비밀번호 찾기 / 회원 가입 / 내 정보 수정
+<img src="https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png" width="450" height="200"> 
+<img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="450" height="200"> 
+<img src="https://user-images.githubusercontent.com/74230238/166141858-064ebcd6-4171-4716-9028-67fcb6b04080.png" width="200" height="200"> 
 
 
- > 회원 가입
-<img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="550" height="250"> 
+ > 사용자 강의 목록 / 사용자 수강 신청
+<img src="https://user-images.githubusercontent.com/74230238/166142014-6fa65578-52b9-4442-8f83-7425c481c1dc.png" width="300" height="300"><img src="https://user-images.githubusercontent.com/74230238/166142032-a4efeecb-ba04-4a07-b4cd-15493f6643e9.png" width="300" height="300">  
 
 
+ > 사용자 실시간 상담 / 문의사항 보내기
+<img src="https://user-images.githubusercontent.com/74230238/166142073-5ef317ba-04c8-4dd7-9c26-828f5db9bf53.png" width="300" height="300">  
 
- > 상품 등록하기  /  상품 상세페이지  /  신고하기
-
-
-
-
- > 검색
-
-
-
-
- > 내 상점(후기, 찜, 구매내역, 내 상품 관리)
 
 
 <br/>
@@ -87,6 +78,12 @@ java Swing을 이용, eclipse를 사용,  java 공부
  > 채팅방
 
 
+
+
 <br/>
 
  > 관리자 페이지
+
+
+
+
