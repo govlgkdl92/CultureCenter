@@ -51,8 +51,6 @@ java Swing을 이용, eclipse를 사용,  java 공부
 <p/>
 <br/><br/><br/>
 
-<img src="" width="200" height="250"> 
-
 ## 사용 화면
  > 로그인 / 아이디 찾기 / 비밀번호 찾기 / 회원 가입 / 내 정보 수정
  > 
