@@ -4,7 +4,7 @@ java Swing을 이용, eclipse를 사용,  java 공부
 
 <h1 align="center"> 문화센터 프로그램</h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73110638/108618038-23b8e600-745e-11eb-9957-a14652bb7749.png" width="600" height="700"></p>
+<p align="center"><img src="" width="600" height="700"></p>
 
 > <div align="center">JAVA SWING을 활용한 문화센터 프로그램</h4></div>
 
@@ -60,13 +60,12 @@ java Swing을 이용, eclipse를 사용,  java 공부
 <img src="" width="200" height="250"> 
 
 ## 사용 화면
- > 전체 화면
-<img src="![image](https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png)
-" width="200" height="250"> 
+ > 전체 화면 / 아이디 찾기 / 비밀번호 찾기
+<img src="https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png" width="400" height="250"> 
 
 
- > 회원 가입 / 로그인
-<img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="200" height="250"> 
+ > 회원 가입
+<img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="400" height="250"> 
 
 
 
