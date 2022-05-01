@@ -61,7 +61,7 @@ java Swing을 이용, eclipse를 사용,  java 공부
 
  > 사용자 : 강의 목록 / 사용자 수강 신청
  > 
-<img src="https://user-images.githubusercontent.com/74230238/166142014-6fa65578-52b9-4442-8f83-7425c481c1dc.png" width="300" height="250"> <img src="https://user-images.githubusercontent.com/74230238/166142032-a4efeecb-ba04-4a07-b4cd-15493f6643e9.png" width="200" height="250">  
+<img src="https://user-images.githubusercontent.com/74230238/166142014-6fa65578-52b9-4442-8f83-7425c481c1dc.png" width="300" height="250"> <img src="https://user-images.githubusercontent.com/74230238/166142032-a4efeecb-ba04-4a07-b4cd-15493f6643e9.png" width="250" height="250">  
 
 
  > 사용자 : 실시간 상담 / 문의사항 보내기
