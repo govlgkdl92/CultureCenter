@@ -61,11 +61,11 @@ java Swing을 이용, eclipse를 사용,  java 공부
 
 ## 사용 화면
  > 전체 화면 / 아이디 찾기 / 비밀번호 찾기
-<img src="https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png" width="600" height="250"> 
+<img src="https://user-images.githubusercontent.com/74230238/166141690-3cafc12c-95fa-44bf-9c95-93e98842d392.png" width="550" height="250"> 
 
 
  > 회원 가입
-<img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="600" height="250"> 
+<img src="https://user-images.githubusercontent.com/74230238/166141711-82fdcfbb-8820-499a-90e9-4a3afecfacf2.png" width="550" height="250"> 
 
 
 
