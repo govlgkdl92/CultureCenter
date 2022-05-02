@@ -18,7 +18,7 @@ java Swing을 이용, eclipse를 사용,  java 공부
   * SQLDeveloper
 
 
-* 사용 기술
+* 목적
   * Swing을 통한 인터페이스 구현
   * N:N Mapping 테이블 경험을 통한 Oracle 기본 사용법 숙달
   * JAVA 사용법에 대한 완벽한 이해
