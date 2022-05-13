@@ -12,10 +12,8 @@ java Swing을 이용, eclipse를 사용,  java 공부
 
 
 * 사용 기술
-  * JAVA
+  * JAVA swing
   * Oracle DataBase
-  * Eclipse
-  * SQLDeveloper
 
 
 * 목적
